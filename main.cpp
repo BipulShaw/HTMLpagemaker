@@ -20,7 +20,7 @@ void HTML::about()
 	cout<<"Bipul Kumar Shaw (see ABOUT DEVELOPER). It is a basic console software designed\n";
 	cout<<"for easily creating a webpage (basic HTML page) and it demonstrates the capabilities.\n";
 	cout<<"For help see HELP option.\n";
-	cout<<"HTMLcreator - Free - Open Source - 2017";
+	cout<<"HTMLcreator - Free - Open Source";
 	cout<<"\n----------------------------------------------------------\n";
 }
 void HTML::help()
@@ -32,14 +32,13 @@ void HTML::help()
 void HTML::credits()
 {
 	cout<<"\n------------------------------------------------------------\n";
-	cout<<"The credits for this software goes to Mr.Kamal Kant Gupta (PGT Comp. Sc.),\n";
-	cout<<"anyone directly or indirectly involved (otherwise helped), my parents and me ofcourse.\n";
+	cout<<"The credit goes anyone directly or indirectly involved (otherwise helped), my parents and me ofcourse.\n";
 	cout<<"--------------------------------------------------------------\n";
 }
 void HTML::aboutd()
 {
 	cout<<"\n----------------------------------------------------------------\n";
-	cout<<"Bipul Kumar Shaw Class- XII Science (2017-18) roll no. 08 a hardworking soft. developer";
+	cout<<"Bipul Kumar Shaw IIEST, SHIBPUR";
 	cout<<"\n----------------------------------------------------------------\n";
 }
 void HTML::close()
